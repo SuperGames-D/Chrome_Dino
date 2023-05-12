@@ -4,7 +4,7 @@ This is a recreation of chrome's dino game using pygame!
 
 Press Space to start and to jump. Avoid touching cactus.
 
-All credit goes to Google for creating the originl dino game.
+All credit goes to Google for creating the original dino game.
 
 ## How to download
 
